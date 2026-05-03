@@ -103,8 +103,8 @@ CodingCops                            Software Engineer · Jan 2019 – Dec 2022
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zulqarnain606&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain606&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zulqarnain606&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="49%"/>
+<img src="https://komarev.com/ghpvc/?username=zulqarnain606&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" />
 
 </div>
 
