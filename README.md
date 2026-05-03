@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=7%2B+Years+Building+Scalable+Backend+Systems;Ruby+on+Rails+%7C+Java+%7C+Microservices+%7C+Kafka;LLMs+%7C+AI+Agents+%7C+RAG+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=7%2B+Years+Building+Scalable+Backend+Systems;Ruby+on+Rails+%7C+Java+%7C+Node.js+%7C+Microservices+%7C+Kafka;LLMs+%7C+AI+Agents+%7C+RAG+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
