@@ -10,8 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/zulqar606@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulqar606@gmail.com)
-[![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-14b8a6?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
-
 </div>
 
 ---
